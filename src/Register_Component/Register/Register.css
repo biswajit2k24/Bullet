@@ -1,0 +1,134 @@
+.log {
+  height: 3rem;
+  width: 3rem;
+}
+.re-container {
+  
+  width: 40rem !important;
+  display: flex;
+  row-gap: 1rem !important;
+  flex-direction: column;
+  height: auto;
+}
+.re1 {
+  border: solid black 1px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 12rem;
+  align-items: center;
+  font-size: small;
+  height: 8rem;
+  font-family: "Ubuntu", sans-serif;
+  cursor: pointer;
+}
+.group1 {
+  margin-top: 10px;
+  margin-left: 10rem;
+}
+
+.for1 {
+  background: none !important;
+  background-color: #fdf7ed;
+  padding: 3%;
+}
+.for2 {
+  color: #6c6c6c;
+  font-size: 15px;
+}
+.reg-btn {
+  width: 14rem !important;
+  height: 3rem;
+  border-radius: 20px !important;
+}
+.reg--row {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.logo1 {
+  height: 20%;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.he1 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 850;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.he2 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 450;
+  font-size: 16px;
+  display: flex;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+.he3 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 450;
+  font-size: 16px;
+  display: flex;
+
+  justify-content: center;
+}
+.he4 {
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+
+  height: 3rem;
+  padding: 25px;
+  cursor: pointer;
+  border-radius: 30px;
+  border: solid black 1px;
+}
+.he5 {
+  width: 2rem;
+}
+.he {
+  height: auto;
+}
+.head-container {
+  height: 5rem;
+}
+.he7 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-size: large;
+  padding: 10px;
+}
+@media only screen and (max-width: 450px) {
+  .re-container {
+    height: 150rem;
+    max-width: 100% !important;
+  }
+  .for1 {
+    width: 23rem !important;
+    margin-bottom: 1rem;
+  }
+  .roe {
+    margin-left: 10px;
+  }
+  .re1 {
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+  }
+  .foro2{
+    width: 23rem;
+  }
+  .forio2{
+    width: 23rem !important;
+  }
+  .reg--row{
+    display: flex !important;
+    flex-direction: column !important;
+    margin-left: 10%;
+    justify-items: center !important;
+ }
+ .lojj{margin-left: 6rem;}
+}

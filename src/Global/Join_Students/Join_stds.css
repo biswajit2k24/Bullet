@@ -1,0 +1,135 @@
+.male1 {
+  height: 100%;
+  width: 90%;
+  padding: 10%;
+}
+.jo4 {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.jo1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+.jo2 {
+  font-weight: 500;
+  font-size: 14px;
+}
+.jo3 {
+  width: 13rem;
+  height: 45px;
+  background-color: #1e571e;
+  color: #fdf7ed;
+  border-radius: 20px;
+  padding: 7px;
+}
+.exp-row {
+  font-weight: 400;
+  font-size: 40px;
+  text-align: center;
+}
+/* App.css */
+.cdr {
+  width: 14rem;
+  height: 8rem !important;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400 !important;
+  color: #144714 !important;
+  background: none !important;
+  border: 2px solid !important;
+  border-image-source: linear-gradient(
+    180deg,
+    #000000 0%,
+    #fdf7ed 47.92%,
+    #000000 100%
+  ) !important;
+  border-image-slice: 1 !important;
+}
+
+.imgo {
+  padding: 10%;
+}
+.car-col {
+  display: flex;
+  justify-content: center;
+}
+.sound-row {
+  display: flex;
+  font-size: 35px;
+  text-align: center;
+  color: #3a3936;
+  font-weight: 400;
+  justify-content: center;
+}
+.student-row {
+  display: flex;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+}
+.d1 {
+  width: 18rem;
+  border-radius: 30px !important;
+}
+.d2 {
+  width: 18rem;
+  border-radius: 30px !important;
+  padding: 20px;
+  background-color: #144714 !important;
+  color: #fdf7ed !important;
+  font-size: small;
+}
+.imgoo {
+  width: 18rem;
+}
+.employer-row {
+  font-weight: 400;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+.employer-row span {
+  font-weight: 500 !important;
+}
+.arrow-row {
+  display: flex;
+  justify-content: center;
+}
+.request {
+  background-color: #1e571e;
+  color: #fdf7ed;
+  font-weight: 500;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 20px;
+}
+.reqq {
+  padding: 2%;
+  margin-left: 2rem;
+}
+.cont-our {
+    margin-top: 2rem ;
+  background-color: #1e571e;
+  color: #dac199;
+  font-weight: 500;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.bullet-btnn{
+    background-color: #dac199;
+    color: #144714;
+    width: 17rem;  
+    padding: 6px;
+    border-radius: 20px;
+}.lou{
+    margin-left: 10px !important;
+}

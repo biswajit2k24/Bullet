@@ -1,0 +1,32 @@
+.logo2 {
+    margin-left: -2rem;
+    width: 30% !important;
+  }
+  .btnn-main {
+    display: flex; 
+    align-items: center;
+    gap: 1rem;
+  }
+  .btnn-main1 {
+   
+    padding: 5px;
+    border-radius: 10px;
+    color: #144714 !important;
+    font-weight: 500 !important;
+    cursor: pointer;
+    padding: 10px 20px;
+  
+    color: black;
+  
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+  }
+  
+  .active-btn {
+    background: linear-gradient(269.82deg, #2c7a2c -22.91%, #184a18 90.26%);
+    color: white !important;
+  }
+  .navu {
+    color: #144714 !important;
+    font-weight: 500 !important;
+  }

@@ -1,0 +1,63 @@
+.foot-cont {
+    
+  margin-top: 2rem;
+}
+.logo4 {
+  height: 2rem;
+}
+.allin{
+    font-weight: 500;
+    size: 20px;
+    color: #1E571E;
+    margin-bottom: 2px;
+}
+.allone{
+    font-weight: 300;
+    size: 18px;
+    color: #1E571E;
+}
+.priv-col{
+    display:flex ;
+color: #1E571E;
+    gap: 1rem;
+    font-weight: 500;
+    font-size: 15px;
+}
+.priv-row{
+    margin-top: 2rem !important;
+    margin-bottom: 2rem;
+}
+.arro-box{
+    width: 3rem;
+    height: 3rem;
+    background-color: #1E571E;
+    color: white;
+    border-radius: 15px;
+    padding: 2%;
+    cursor: pointer;
+}
+.reser-col{
+    font-weight: 400;
+    
+}
+.reser-col span{
+    font-weight: 700;
+    color: #1E571E;
+    cursor: pointer;
+}
+.help-btnn{
+    background-color: #1E571E;
+    height: 35px;
+    width: 8rem;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 5px;
+    color: #FDF7ED;
+    cursor: pointer;
+}
+.byu{
+    background-color: #1E571E;
+    padding: 8px;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,39 @@
+.career-card{
+    width: 70rem;
+    background: none !important;
+    border: none !important;
+}
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    padding-left: 15px;
+}
+/* Studentblog.css */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+ 
+  }
+  
+  .btn-primary.active{
+    background: linear-gradient(269.82deg, #2C7A2C -22.91%, #184A18 90.26%) !important;
+    color: white !important;
+
+  }
+  .btn-primary{
+    background:none !important;
+    border: none !important;
+    color:black !important;
+  }
+  .all-coll{
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  .all-coll span{
+    font-weight: 700;
+    color: #184A18;
+  }
