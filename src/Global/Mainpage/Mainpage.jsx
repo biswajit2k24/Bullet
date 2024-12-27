@@ -19,7 +19,7 @@ function Mainpage() {
             </div>
             <div className="ro2">
               Bite-sized 5-6 hour virtual work experience programs that give
-              students a genuine career advantage with Fortune 500 companies
+              students a genuine career advantage with Fortune 500 companies with
             </div>
             <div className="ro3">
               Start Now{" "}
